@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera_monitoring</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_toolbar_title">Toolbar Title</string>
+    <string name="default_camera_name">Камера 1</string>
+    <string name="door">Door</string>
+    <string name="favourites">Favourites</string>
+</resources>
