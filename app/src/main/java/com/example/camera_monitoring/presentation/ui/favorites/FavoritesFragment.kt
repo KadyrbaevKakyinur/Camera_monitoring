@@ -6,8 +6,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.camera_monitoring.databinding.FragmentFavouritesBinding
+import dagger.hilt.android.AndroidEntryPoint
 
-class FavoritesFragment : Fragment() {
+@AndroidEntryPoint
+class FavouritesFragment : Fragment() {
     private lateinit var binding: FragmentFavouritesBinding
 
     override fun onCreateView(
