@@ -1,6 +1,5 @@
 package com.example.camera_monitoring.domain.repositories
 
-import com.bumptech.glide.load.engine.Resource
 import com.example.camera_monitoring.domain.models.CameraModel
 import kotlinx.coroutines.flow.Flow
 

@@ -8,7 +8,6 @@ import androidx.room.Update
 import com.example.camera_monitoring.data.model.Camera
 
 @Dao
-//1. `@Dao`: Это аннотация, которая говорит компилятору, что этот интерфейс представляет собой объект доступа к данным (Data Access Object).
 interface CameraDao {
     @Query("SELECT * FROM camera")
 
